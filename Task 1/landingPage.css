@@ -1,0 +1,139 @@
+.container {
+    background-image: url(burger.jpg);
+    background-size: cover;
+    padding: 0 35px;
+    margin: 0 auto;
+    border: 1px solid #707070;      
+}
+@media screen and (max-width: 600px) {
+    body, .container {
+      width: 100%;
+    }
+  }
+.site-logo {
+    float: right;
+    width: 50px;
+}
+.header {
+    margin-bottom: 25px;
+    padding-bottom: 25px;
+}
+.redline {
+    top: 271px;
+    left: 89px;
+    width: 0px;
+    height: 297px;
+}
+.grilled {
+    top: 457px;
+    left: 128px;
+    color: #ffffff;
+    padding: auto;
+    margin: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.text {
+    top: 539px;
+    left: 130px;
+    width: 643px;
+    color:#ffffff;
+}
+.textl {
+    margin-top: 25px;
+    color: rgb(255, 255, 255);
+}
+.textii {
+    margin: 0;
+}
+h1 {
+    font-family: Arial, sans-serif;
+    font: bold;
+    font-weight: 500px;
+}
+.about {
+    color: #D85A5A;
+    display: block;
+    position: absolute;
+    width: 1229px;
+    margin-top: 45px;
+    top: 88px;
+    left: 60px;
+    height: 68px;
+}
+.title-head {
+    color: white;
+    top: 289px;
+    left: 127px;
+    width: 384px;
+    font: 900px;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+.long {
+    top: 271px;
+    left: 89px;
+    width: 0px;
+    height: 185px;
+    border: 3px solid #d85a5a;
+    opacity: 1;
+}
+.small {
+    top: 617px;
+    left: 89px;
+    width: 0px;
+    height: 12px;
+    opacity: 1;
+    margin-top: 35px;
+    border: 3px solid #d85a5a;
+}
+.menu-button {
+    border-radius: 60px;
+    margin-top: 35px;
+    color: #FFFFFF;
+    left: 100px;
+    width: 100px;
+    padding: 10px;
+    background-color: #d85a5a;
+    border: #d85a5a;
+    font-size: 10px;
+}
+.book-table {
+    margin-left: 15px;
+    border-radius: 60px;
+    margin-top: 35px;
+    width: 100px;
+    padding: 10px;
+    background-color: #FFFFFF;
+    border: #FFFFFF;
+    text-decoration-color: #1570e7;
+    box-shadow: 1px 1px 2px #857979;
+    color: #d85a5a;
+    font-size: 10px;
+}
+.buttons {    
+    position: relative;
+    left: 30px;
+    margin: 20px;
+}
+.lunch {
+    font-size: medium;
+    padding: 5px; 
+    color: red;
+    margin: 0;
+}
+.time {
+    top: 865px;
+    left: 130px;
+    width: 193px;
+    color:#ff0000;
+    font-size: small;
+    opacity: 0.5;      
+}
+.arrow {
+    position: relative;
+    left: 75px;
+    margin: auto;
+}
+.site-title{
+    color: white;
+}
